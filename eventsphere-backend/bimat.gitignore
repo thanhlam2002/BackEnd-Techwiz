@@ -1,0 +1,23 @@
+# Maven
+/target
+!.mvn/wrapper/maven-wrapper.jar
+.mvn/
+
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Spring Boot
+application.properties
+application.yml
